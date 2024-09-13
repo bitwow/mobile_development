@@ -9,7 +9,7 @@
 
 * [Полезная информация](https://github.com/bitwow/mobile_development/blob/main/sources.md)
 * [Конспекты лекций](https://github.com/bitwow/mobile_development/tree/main/Notes)
-* [Вопросы к экзамену](https://github.com/bitwow/mobile_development/blob/main/questions.md)
+* [Вопросы к зачёту](https://github.com/bitwow/mobile_development/blob/main/questions.md)
 * [Лабораторные работы](https://github.com/bitwow/mobile_development/blob/main/lab.md)
 * [Домашние работы](https://github.com/bitwow/mobile_development/tree/main/HomeWork)
 
